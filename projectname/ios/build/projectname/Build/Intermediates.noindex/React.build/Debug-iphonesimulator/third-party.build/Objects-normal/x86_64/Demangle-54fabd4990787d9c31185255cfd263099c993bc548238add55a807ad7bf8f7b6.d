@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/kaanoner/Documents/GitHub/EazleeApp/projectname/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
